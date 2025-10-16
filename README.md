@@ -48,12 +48,13 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ahmedshefo" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-shefoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmedshefo@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.ahmed-elfeel.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website"/>
+</a
+
 </p>
 
 ---
