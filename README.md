@@ -49,23 +49,23 @@
 ---
 
 ### 🎓 Certifications
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/ahmedshefo" target="_blank">
-    <img src="https://img.shields.io/badge/Fabric%20Analytics%20Engineer-0078D4?logo=microsoft&logoColor=white" alt="Fabric Analytics Engineer"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/ahmedshefo" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI%20Data%20Analyst-F2C811?logo=power-bi&logoColor=black" alt="Power BI Data Analyst"/>
-  </a>
-  <a href="https://studentambassadors.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Student%20Ambassador-0066FF?logo=microsoft&logoColor=white" alt="Microsoft Gold Student Ambassador"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/ahmedshefo" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20Platform%20Developer-742774?logo=powerapps&logoColor=white" alt="Power Platform Developer"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/ahmedshefo" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20Administrator-0078D7?logo=microsoft-azure&logoColor=white" alt="Azure Administrator"/>
-  </a>
-</p>
+<!-- Certifications Section -->
+<section id="certifications" style="text-align:center; margin:50px 0;">
+  <h2 style="font-family: 'Poppins', sans-serif; font-weight:600;">Certifications</h2>
+
+  <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:40px; margin-top:30px;">
+    <img src="cert1.png" alt="Certificate 1" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
+    <img src="cert2.png" alt="Certificate 2" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
+    <img src="cert3.png" alt="Certificate 3" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
+    <img src="cert4.png" alt="Certificate 4" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
+  </div>
+</section>
+
+<style>
+  #certifications img:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 ---
 
