@@ -11,7 +11,7 @@
 <h3 align="center">🚀 BI Analyst | Microsoft Fabric Engineer | Power BI Enthusiast</h3>
 
 <p align="center">
-💡 Passionate about turning raw data into business insights using Power BI, Microsoft Fabric, and Power Platform tools.  
+💡 Passionate about turning raw data into business insights using Power BI, Microsoft Fabric, and Power Platform tools.<br>
 📊 Dedicated to delivering clean data models, automated workflows, and stunning dashboards.
 </p>
 
