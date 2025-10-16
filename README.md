@@ -1,10 +1,12 @@
 <p align="center">
   <img src="banner.jpeg" width="100%">
 </p>
+
 <!-- Header Section -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdscnZ4d3FhcnRrdHNlMGp6djE0OXBrcm5rZmZlaGZjYXlpYWpjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
+
 <h1 align="center">👋 Hi, I'm Ahmed Sherif El-Feel</h1>
 <h3 align="center">🚀 BI Analyst | Microsoft Fabric Engineer | Power BI Enthusiast</h3>
 
@@ -46,15 +48,30 @@
 
 ---
 
+### 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Analytics%20Engineer-0078D4?logo=microsoft&logoColor=white" alt="Fabric Analytics Engineer"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst-F2C811?logo=power-bi&logoColor=black" alt="Power BI Data Analyst"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Gold%20Student%20Ambassador-FFD700?logo=microsoft&logoColor=black" alt="Microsoft Gold Student Ambassador"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Developer-742774?logo=powerapps&logoColor=white" alt="Power Platform Developer"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator-0078D7?logo=azure-devops&logoColor=white" alt="Azure Administrator"/>
+</p>
+
+<p align="center">
+  🧠 Constantly learning and expanding my expertise in analytics, automation, and cloud technologies.
+</p>
+
+---
+
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-shefoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.ahmed-elfeel.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website"/>
-</a
-
+    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 ---
@@ -62,6 +79,14 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedshefo&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshefo&theme=react&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshefo&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
