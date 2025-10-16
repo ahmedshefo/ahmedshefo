@@ -51,13 +51,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedshefo&theme=radical&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 🧩 What I Love Building
 - 📊 Interactive Power BI dashboards that tell a story  
 - 🧱 Data pipelines and Lakehouses in Microsoft Fabric  
