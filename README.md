@@ -40,6 +40,19 @@
 
 ---
 
+### 🎓 Certifications
+<p align="center">
+  <img src="cert1.png" alt="Certification 1" width="120" style="margin:10px"/>
+  <img src="cert2.png" alt="Certification 2" width="120" style="margin:10px"/>
+  <img src="cert3.png" alt="Certification 3" width="120" style="margin:10px"/>
+  <img src="cert4.png" alt="Certification 4" width="120" style="margin:10px"/>
+</p>
+<p align="center">
+  💼 Click the badges to view the certificates online (optional: link them if hosted)
+</p>
+
+---
+
 ### 🧩 What I Love Building
 - 📊 Interactive Power BI dashboards that tell a story  
 - 🧱 Data pipelines and Lakehouses in Microsoft Fabric  
