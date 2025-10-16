@@ -43,9 +43,9 @@
 ### 🎓 Certifications
 <p align="center">
   <img src="cert1.png" alt="Certification 1" width="120" style="margin:10px"/>
-  <img src="cert2.png" alt="Certification 2" width="120" style="margin:10px"/>
+  <img src="cert2.png" alt="Certification 2" width="130" style="margin:10px"/>
   <img src="cert3.png" alt="Certification 3" width="150" style="margin:10px"/>
-  <img src="cert4.png" alt="Certification 4" width="120" style="margin:10px"/>
+  <img src="cert4.png" alt="Certification 4" width="130" style="margin:10px"/>
   <img src="cert5.png" alt="Certification 4" width="120" style="margin:10px"/>
 </p>
 
