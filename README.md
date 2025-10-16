@@ -48,27 +48,6 @@
 
 ---
 
-### 🎓 Certifications
-<!-- Certifications Section -->
-<section id="certifications" style="text-align:center; margin:50px 0;">
-  <h2 style="font-family: 'Poppins', sans-serif; font-weight:600;">Certifications</h2>
-
-  <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:40px; margin-top:30px;">
-    <img src="cert1.png" alt="Certificate 1" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
-    <img src="cert2.png" alt="Certificate 2" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
-    <img src="cert3.png" alt="Certificate 3" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
-    <img src="cert4.png" alt="Certificate 4" style="height:100px; width:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:transform 0.3s;">
-  </div>
-</section>
-
-<style>
-  #certifications img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
----
-
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-shefoo/" target="_blank">
